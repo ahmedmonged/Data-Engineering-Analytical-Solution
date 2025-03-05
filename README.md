@@ -8,7 +8,7 @@ This project demonstrates a complete **data engineering and analytics solution**
 ## 📊 Power BI Dashboard
 Below is a preview of the **Power BI dashboard** built in this project:
 
-![Power BI Dashboard](Files/DASHBOARD.png)  
+![Power BI Dashboard](Files/DASHBAORD.png)  
 *Figure: Power BI Dashboard showcasing business insights.*
 
 ---
@@ -16,7 +16,7 @@ Below is a preview of the **Power BI dashboard** built in this project:
 ## 🔀 ADF Pipeline
 This section illustrates the **Azure Data Factory (ADF) pipeline** used for data orchestration:
 
-![ADF Pipeline](Files/pipeline.png)  
+![ADF Pipeline](Files/PIPELINE.png)  
 *Figure: ADF Pipeline automating the data flow process.*
 
 ---
