@@ -3,6 +3,24 @@
 ## 📌 Project Overview
 This project demonstrates a complete **data engineering and analytics solution** using **Microsoft Azure**. It integrates multiple cloud-based services to efficiently **ingest, process, and analyze data**, ensuring a seamless and scalable data pipeline. The final result is an **interactive Power BI dashboard** that delivers **actionable business insights**.
 
+---
+
+## 📊 Power BI Dashboard
+Below is a preview of the **Power BI dashboard** built in this project:
+
+![Power BI Dashboard](Files/powerbi_dashboard.png)  
+*Figure: Power BI Dashboard showcasing business insights.*
+
+---
+
+## 🔀 ADF Pipeline
+This section illustrates the **Azure Data Factory (ADF) pipeline** used for data orchestration:
+
+![ADF Pipeline](Files/adf_pipeline.png)  
+*Figure: ADF Pipeline automating the data flow process.*
+
+---
+
 ## Architecture Workflow
 
 ### 1️⃣ Data Ingestion - Azure Data Lake Storage
